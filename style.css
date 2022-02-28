@@ -1,0 +1,28 @@
+*{
+    margin: 0 ; 
+    box-sizing: border-box;
+}
+body,html{
+    height:100% ; 
+}
+
+.parent{
+     
+    background-color:red ; 
+    font-size:1.5rem ; 
+   display:flex ; 
+
+}
+.it-1{
+    align-self:start ; 
+    background-color: blue;
+
+}
+.it-2{
+    
+    margin-left:auto;
+    margin-right:auto ; 
+}
+.it-3{
+    background-color:blue ; 
+}
